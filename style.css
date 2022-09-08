@@ -1,6 +1,8 @@
+/* container margin */
 .margin-top-botton {
   margin: 100px 0;
 }
+/* Register Section */
 .register-section {
   height: 300px;
   background-color: #289bde;
@@ -10,6 +12,7 @@
   padding: 13px 33px;
   color: #289bde;
 }
+/* Footer section */
 footer {
   height: 300px;
   padding: 50px 0;
